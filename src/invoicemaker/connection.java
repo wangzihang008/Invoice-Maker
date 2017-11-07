@@ -23,9 +23,9 @@ import java.util.logging.Logger;
  */
 public class connection {
     
-    final private String url = "jdbc:mysql://hp214.hostpapa.com:3306/rober367_invoice_maker_db";
-    final private String username = "rober367_invoice";
-    final private String password = "InvoiceMaker2017";
+    final private String url = "your database url";
+    final private String username = "username";
+    final private String password = "password";
     private Connection con;
     private Statement stmt;
     
